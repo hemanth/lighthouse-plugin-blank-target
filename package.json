@@ -2,9 +2,9 @@
   "name": "lighthouse-plugin-blank-target",
   "main": "./plugin.js",
   "peerDependencies": {
-    "lighthouse": "^5.6.0"
+    "lighthouse": "^9.6.7"
   },
   "devDependencies": {
-    "lighthouse": "^5.6.0"
+    "lighthouse": "^9.6.7"
   }
 }
